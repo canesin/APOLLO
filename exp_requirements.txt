@@ -1,5 +1,5 @@
 torch
-transformers==4.45.2
+transformers==5.5.0
 tokenizers
 datasets
 peft
